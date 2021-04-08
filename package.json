@@ -1,0 +1,17 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "SPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "single",
+    "page",
+    "aplication"
+  ],
+  "author": "AliXEagle <alicruzaguila@gmail.com>",
+  "license": "MIT"
+}
